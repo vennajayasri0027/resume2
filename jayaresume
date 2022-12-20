@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-compatible" content="IE-edge">
+        <meta name="viewport" content="width=deivce-width,intial-scale=1.0">
+        <link rel="stylesheet" href="css/bootstrap.min.css">
+        <script src="js/bootstrap.min.js"></script>
+        <link rel="stylesheet" href="css/resume.css">
+        <title>Resume</title>
+    </head>
+    <body>
+        <div class="row" class="col-8" id="main">
+           
+             <p id="jt">JAYA SRI</p>
+            <p id="it">Internship
+             <br>Email:vennajayasri0027@gmail.com
+            <br>Linkedin:linkedin.com/jaya
+            <br>Phone:79890xxxxx
+            <br>Date of birth:27-03-2003
+        </p>
+        </div>
+        <div class="col-8"> 
+            <p id="prh">Solution-focued Web Devloper intern with expericein web-based application Participated in development and implementation of web-based solutions.Supported comany business objective and 
+            strategies while gaining reel-world experience. Mentored Senior Java Web Developers, learning 
+            mulitiple system and efficient developement techniqes.</p> 
+            <p id="work">Work History</p>
+            <p id="par"><hr>Web Devloper Intern in HABIB IT Solution</hr></p>
+            <p id="ed">Education</p>
+            <p id="ed1"><hr> <ul>
+                <li>B.Sc in Chemistry</li>
+                <li>St.Joseph's Degree College</li>
+                <li>Kurnool</li>
+            </ul>
+        <ul>
+            <li>NRI junior college</li>
+            <li>Intermediate</li>
+        </ul>
+    <ul>
+        <li>Dream child E.M School</li>
+        <li>SSC</li>
+    </ul></hr></p>
+            </ul></p>
+            <p id="skl">Skills</p>
+            <p id="skl1"><hr><ul>
+                <li>Good COmunication</li>
+                <li>Good Listener</li>
+            </ul> </hr></p>
+            <p id="dcl">Declaration</p>
+            <p id="dcl1"><hr> "I hereby declaer that all the aboe information furnished above is true to the 
+                best of my belief"
+            </hr></p>
+        </div>
+        
+    </body>
+    
+</html>
